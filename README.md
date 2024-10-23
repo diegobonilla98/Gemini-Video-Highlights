@@ -1,6 +1,12 @@
 # Gemini-Video-Highlights
 Gemini creates a short highlights video compilation of a given long video. This idea leverages Google's Gemini LLM, specifically its long attention and caching capabilities, to handle extensive video inputs effectively.
 
+This is the code for the Kaggle competition: [https://www.kaggle.com/competitions/gemini-long-context](https://www.kaggle.com/competitions/gemini-long-context)
+
+Submission for Diego Bonilla :D
+
+Fingers crossed 🤞
+
 
 ## Summary
 Gemini creates a short highlights video compilation of a given long video. This idea leverages Google's Gemini LLM, specifically its long attention and caching capabilities, to handle extensive video inputs effectively. Processing full-length videos requires the ability to maintain context over long durations, which is challenging for most language models. Gemini's advanced architecture makes it possible to analyze lengthy video content without losing track of important details, enabling comprehensive understanding and processing that would be difficult or impossible with standard models.
